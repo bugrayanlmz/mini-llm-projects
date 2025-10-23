@@ -1,0 +1,27 @@
+# API anahtarlarını sakla - asla GitHub'a yükleme!
+.env
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test dosyaları
+test_images/
+*.jpg
+*.png
+*.pdf
+
